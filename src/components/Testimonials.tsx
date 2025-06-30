@@ -12,7 +12,7 @@ interface TestimonialProps {
 const testimonials: TestimonialProps[] = [{
   content: "Scrappy transformed our production line, handling repetitive tasks while our team focuses on more complex tasks. 30% increase in output within three months.",
   author: "Sarah Chen",
-  role: "VP of Operations, Axion Manufacturing",
+  role: "VP of Operations, Axion",
   gradient: "from-blue-700 via-indigo-800 to-purple-900",
   backgroundImage: "/background-section1.png"
 }, {
@@ -22,9 +22,9 @@ const testimonials: TestimonialProps[] = [{
   gradient: "from-indigo-900 via-purple-800 to-orange-500",
   backgroundImage: "/background-section2.png"
 }, {
-  content: "Scrappy adapted to our lab protocols faster than any system we've used. It's like having another researcher who never gets tired and maintains perfect precision.",
+  content: "Scrappy cleaned our stadium seats faster than any company we've ever used. It's like having a delightful team which never gets tired and maintains perfect precision.",
   author: "Dr. Amara Patel",
-  role: "Lead Scientist, BioAdvance Research",
+  role: "Head of Stadium Operations,  Barclays Center",
   gradient: "from-purple-800 via-pink-700 to-red-500",
   backgroundImage: "/background-section3.png"
 }, {

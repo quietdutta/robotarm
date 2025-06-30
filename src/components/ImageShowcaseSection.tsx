@@ -26,8 +26,8 @@ const ImageShowcaseSection = () => {
             <h3 className="text-xl sm:text-2xl font-display font-semibold mb-3 sm:mb-4">Next Generation Precision</h3>
             <p className="text-gray-700 text-sm sm:text-base">
               Built with precision engineering and sophisticated reinforcement learning, our robotic arms seamlessly 
-              integrate into various manufacturing environments, from factories to laboratories, providing 
-              assistance and enhancing production efficiency.
+              integrate into various unforgettable environments, from stadiums to concert halls, providing 
+              assistance and enhancing efficiency.
             </p>
           </div>
         </div>
